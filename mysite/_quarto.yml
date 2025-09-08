@@ -18,5 +18,6 @@ format:
     css: styles.css
     toc: true
 
-
+editor:
+  render-on-save: true
 
