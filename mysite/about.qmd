@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-About this site:
-
-This site was created by Nicole Link, a Masters of Data Science student at the University of British Columbia. In her free time, Nicole likes to dance and crochet. 
