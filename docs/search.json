@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "mysite/about.html",
+    "href": "mysite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site:\nThis site was created by Nicole Link, a Masters of Data Science student at the University of British Columbia. In her free time, Nicole likes to dance and crochet."
+  },
+  {
+    "objectID": "mysite/index.html",
+    "href": "mysite/index.html",
+    "title": "mywebsite",
+    "section": "",
+    "text": "This is Nicole Link’s website for the MDS 521 course.\nTest changes\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicole’s github website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
